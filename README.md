@@ -11,9 +11,27 @@ A contemporary web-based synthesizer that turns your computer keyboard into a mu
 - **Contemporary Sound Design**: Detuned oscillators, filtered waveforms
 
 ## Quick Start
+## Quick Start
+
+1. **Clone this repository:**
+```bash
+git clone https://github.com/raminakhavijou/keyboard-synth.git
+cd keyboard-synth
+```
+
+2. **Install dependencies:**
 ```bash
 npm install
+```
+
+3. **Start the development server:**
+```bash
 npm run dev
+```
+
+4. **Open your browser** to http://localhost:5173 and start playing!
+
+> **Note:** You need Node.js 16+ installed. Download it from [nodejs.org](https://nodejs.org) if you don't have it.
 ```
 
 Open http://localhost:5173
