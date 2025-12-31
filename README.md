@@ -10,7 +10,7 @@ A contemporary web-based synthesizer that turns your computer keyboard into a mu
 - **Mouse & Touch Support**: Works on desktop and mobile devices
 - **Contemporary Sound Design**: Detuned oscillators, filtered waveforms
 
-## Quick Start
+
 ## Quick Start
 
 1. **Clone this repository:**
